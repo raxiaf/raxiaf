@@ -3,6 +3,7 @@
     "raxi": {
       "api": "https://plsus51.cpanelpanel.xyz/snap/api.php",
       "version": "1.0.0",
+      "front": "https://plsus51.cpanelpanel.xyz/snap",
       "status": "active",
       "last_update": "2026-04-16",
       "min_version": "1.0.0",
