@@ -1,16 +1,16 @@
 {
   "apps": {
     "raxi": {
-      "api": "https://plsus51.cpanelpanel.xyz/snap/api.php",
-      "version": "1.0.0",
       "front": "https://plsus51.cpanelpanel.xyz/snap",
+      "version": "1.0.0",
+      "api": "https://plsus51.cpanelpanel.xyz/snap/api.php",
       "status": "active",
       "last_update": "2026-04-16",
       "min_version": "1.0.0",
       "download_url": "https://plsus51.cpanelpanel.xyz/snap/raxi.apk"
     },
     "chawk": {
-      "api": "https://plsus51.cpanelpanel.xyz/",
+      "front": "https://plsus51.cpanelpanel.xyz/",
       "version": "1.2.0",
       "status": "active",
       "last_update": "2026-04-10",
@@ -18,7 +18,7 @@
       "download_url": "https://your-site.com/chawk.apk"
     },
     "jobs": {
-      "api": "https://plsus51.cpanelpanel.xyz/",
+      "front": "https://plsus51.cpanelpanel.xyz/",
       "version": "2.0.0",
       "status": "maintenance",
       "last_update": "2026-04-12",
